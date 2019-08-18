@@ -67,7 +67,7 @@ class Post
     {
         return $this->body;
     }
-gf
+
     /**
      * @param mixed $body
      */
